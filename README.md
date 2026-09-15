@@ -9,4 +9,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## New Feature
 
-This project will include a simple feature description to demonstrate how new features are proposed and developed through GitHub collaboration.
+This project includes a simple feature description to demonstrate how a new feature is proposed, documented, reviewed, and integrated through GitHub collaboration.
