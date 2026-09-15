@@ -20,3 +20,5 @@ This project includes a simple feature description to demonstrate how a new feat
 5. Ask for code review.
 6. Apply the requested changes.
 7. Merge the approved pull request.
+
+Contributions are welcome.
